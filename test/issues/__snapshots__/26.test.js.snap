@@ -1,0 +1,190 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`encounter title only once 1`] = `
+<form
+  className="rjsf"
+  noValidate={false}
+  onSubmit={[Function]}
+>
+  <div
+    className="form-group field field-object"
+  >
+    <fieldset>
+      <legend
+        id="root__title"
+      >
+        Encounter
+      </legend>
+      <div
+        className="form-group field field-string"
+      >
+        <label
+          className="control-label"
+          htmlFor="root_encounter"
+        >
+          encounter
+        </label>
+        <div />
+        <input
+          autoFocus={false}
+          className="form-control"
+          disabled={false}
+          id="root_encounter"
+          label="encounter"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          placeholder=""
+          readOnly={false}
+          required={false}
+          type="text"
+          value=""
+        />
+        <div />
+        <div />
+      </div>
+      <div
+        className="form-group field field-string"
+      >
+        <div>
+          <div
+            className="col-md-12"
+          >
+            <ul
+              className="nav nav-pills"
+            >
+              <li
+                className="active"
+                onClick={[Function]}
+              >
+                <a>
+                  <span
+                    aria-hidden="true"
+                    className="fa fa-search"
+                  />
+                   
+                  First One To Be
+                </a>
+              </li>
+              <li
+                className={null}
+                onClick={[Function]}
+              >
+                <a>
+                   
+                  1
+                </a>
+              </li>
+              <li
+                className={null}
+                onClick={[Function]}
+              >
+                <a>
+                   
+                  2
+                </a>
+              </li>
+            </ul>
+            <br />
+          </div>
+          <div
+            className="col-md-12"
+          >
+            <ul
+              className="nav nav-pills"
+            >
+              <li
+                className="active"
+                onClick={[Function]}
+              >
+                <a>
+                   
+                  lastName
+                </a>
+              </li>
+              <li
+                className={null}
+                onClick={[Function]}
+              >
+                <a>
+                   
+                  firstName
+                </a>
+              </li>
+            </ul>
+            <br />
+          </div>
+          <div>
+            <label
+              className="control-label"
+              htmlFor="root_firstName"
+            >
+              firstName
+            </label>
+            <input
+              autoFocus={false}
+              className="form-control"
+              disabled={false}
+              id="root_firstName"
+              label="firstName"
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              placeholder=""
+              readOnly={false}
+              required={false}
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+        <div />
+        <div />
+      </div>
+      <div
+        className="form-group field field-string"
+      >
+        <label
+          className="control-label"
+          htmlFor="root_lastName"
+        >
+          lastName
+        </label>
+        <div />
+        <input
+          autoFocus={false}
+          className="form-control"
+          disabled={false}
+          id="root_lastName"
+          label="lastName"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          placeholder=""
+          readOnly={false}
+          required={false}
+          type="text"
+          value=""
+        />
+        <div />
+        <div />
+      </div>
+      <div />
+      <div />
+      <div />
+      <div />
+      <div />
+    </fieldset>
+    <div />
+    <div />
+  </div>
+  <p>
+    <button
+      className="btn btn-info"
+      type="submit"
+    >
+      Submit
+    </button>
+  </p>
+</form>
+`;
